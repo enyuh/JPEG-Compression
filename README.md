@@ -20,7 +20,7 @@
 <img src="https://static.javatpoint.com/tutorial/dip/images/jpeg-compression7.png">
 
 5. Huffman<br>
-<img src="https://static.javatpoint.com/tutorial/dip/images/jpeg-compression9.png" alt="Huffman" ><br>
-> In this step, DC components are coded into Huffman.<br>
 
+> In this step, DC components are coded into Huffman.<br>
+<img src="https://static.javatpoint.com/tutorial/dip/images/jpeg-compression9.png" alt="Huffman" >
 The remaining part of code is to revrse JPEG image back to bmp format, we can see the lossy image.
