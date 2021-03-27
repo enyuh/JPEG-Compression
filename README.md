@@ -20,4 +20,6 @@
 
 5. Huffman<br>
 
-> In this step, DC components are coded into Huffman.
+> In this step, DC components are coded into Huffman.<br>
+
+The remaining part of code is to revrse JPEG image back to bmp format, we can see the lossy image.
