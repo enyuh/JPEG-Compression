@@ -15,7 +15,7 @@
 
 4. DPCM & RLE<br>
 
-> Next step is vectoring, the different pulse code modulation (DPCM) is applied to the DC component. DC components are large and vary but they are usually close to the previous value. DPCM encodes the difference between the current block and the previous block.
+> Next step is vectoring, the different pulse code modulation (DPCM) is applied to the DC component. DC components are large and vary but they are usually close to the previous value. DPCM encodes the difference between the current block and the previous block.<br>
 > In this step, Run Length Encoding (RLE) is applied to AC components. This is done because AC components have a lot of zeros in it. It encodes in pair of (skip, value) in which skip is non zero value and value is the actual coded value of the non zero components.
 
 5. Huffman<br>
