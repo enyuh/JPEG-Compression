@@ -19,7 +19,7 @@
 > Run Length Encoding (RLE) is applied to AC components. This is done because AC components have a lot of zeros in it. It encodes in pair of (skip, value) in which skip is non zero value and value is the actual coded value of the non zero components.
 
 5. Huffman<br>
-
+<img src="https://static.javatpoint.com/tutorial/dip/images/jpeg-compression9.png" alt="Huffman" >
 > In this step, DC components are coded into Huffman.<br>
 
 The remaining part of code is to revrse JPEG image back to bmp format, we can see the lossy image.
