@@ -7,3 +7,5 @@
 4. Item 3
 5. Item 3a
 6. Item 3b
+http://github.com - automatic!
+[GitHub](http://github.com)
